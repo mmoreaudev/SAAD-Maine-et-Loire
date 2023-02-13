@@ -26,3 +26,8 @@ Code|Message|Description
 ---|---|---
 200|OK|The request was received successfully
 
+---
+## Service à la personne - Département de Maine et Loire
+
+© All rights reserved - MIT License.
+[@mmoreaudev](https://www.github.com/mmoreaudev) | [DLSI - Maine-et-Loire](https://maine-et-loire.fr)

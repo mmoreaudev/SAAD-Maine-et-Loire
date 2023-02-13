@@ -57,3 +57,8 @@ request = urllib.request.urlopen(request)
 data = json.load(response)
 print(data['url'])
 ```
+---
+## Service à la personne - Département de Maine et Loire
+
+© All rights reserved - MIT License.
+[@mmoreaudev](https://www.github.com/mmoreaudev) | [DLSI - Maine-et-Loire](https://maine-et-loire.fr)

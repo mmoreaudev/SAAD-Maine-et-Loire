@@ -17,3 +17,9 @@ Code|Message|Description
 401|Unauthorized|Insufficient permission
 403|Forbidden|Insufficient permission
 404|Not found|Municipality not found
+
+---
+## Service à la personne - Département de Maine et Loire
+
+© All rights reserved - MIT License.
+[@mmoreaudev](https://www.github.com/mmoreaudev) | [DLSI - Maine-et-Loire](https://maine-et-loire.fr)

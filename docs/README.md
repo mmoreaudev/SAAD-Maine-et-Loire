@@ -2,3 +2,8 @@
 
 This project was started in February 2022, during my internship in the department of Maine-et-Loire, but due to lack of time, it was not continued. I therefore decided to continue it on my own.
 
+---
+## Service à la personne - Département de Maine et Loire
+
+© All rights reserved - MIT License.
+[@mmoreaudev](https://www.github.com/mmoreaudev) | [DLSI - Maine-et-Loire](https://maine-et-loire.fr)
