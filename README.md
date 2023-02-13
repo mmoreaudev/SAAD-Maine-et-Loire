@@ -1,5 +1,5 @@
 
-# Service à la personne - Département du Maine et Loire
+# SAAD - Département du Maine et Loire
 
 Start of a model of a personal service project for the Maine-et-Loire department.
 
